@@ -14,3 +14,4 @@ React, Bootstrap, Figma
 
 <h2>Author</h2>
 Jennifer Perez
+
